@@ -67,8 +67,11 @@ This project is designed to perform comprehensive data analysis using Python. It
 
 ## Contact Information
 For any queries or issues, please contact:
-- Name: Your Name
-- Email: your.email@example.com
+ 
+- Name: Vicky Kumar
+- LinkedIn: https://linkedin.com/in/vickykumar-/
+- GitHub: https://github.com/itx-vicky714
+- Kaggle: https://kaggle.com/vickykumar50
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
